@@ -100,8 +100,8 @@ For Windows users, we recommend using WSL (Windows Subsystem for Linux) and Cond
 
 2. **Create a Virtual Environment**:
    ```
-   python -m venv venv
-   source venv/bin/activate  # On Linux/Mac
+   conda create -n "name_of_venv" python=3.10   # Exclude the quotation marks
+   conda activate "name_of_venv"   # Exclude the quotation marks
    ```
 
 3. **Run the Setup Script**:
@@ -142,19 +142,18 @@ For Windows users, we recommend using WSL (Windows Subsystem for Linux) and Cond
 ## Usage
 
 1. **Upload Documents**:
-   - Click on the "Upload Documents" tab
-   - Select one or more concert tour documents (PDF, TXT, DOCX)
-   - Click "Upload" to process the documents
+   - Paste the document text
+   - Click "Process Document" to process the documents
 
 2. **Ask Questions**:
    - Click on the "Ask Questions" tab
    - Type your question about concert tours
-   - Click "Ask" to get an answer
+   - Click "Get Answer" to get an answer
 
 3. **Web Search**:
    - Click on the "Web Search" tab
    - Enter your search query
-   - Click "Search" to get results from the web
+   - Click "Search Online" to get results from the web
 
 ## Troubleshooting
 
