@@ -3,6 +3,7 @@
 
 # Model files
 models/*.gguf
+models/__pycache__/
 
 # Data files
 data/document_store/*
