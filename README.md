@@ -1,6 +1,6 @@
 # Concert Tour Information System
 
-A powerful system for ingesting, processing, and querying concert tour information using advanced AI techniques.
+A system for ingesting, processing, and querying concert tour information using advanced AI techniques.
 
 ## Features
 
