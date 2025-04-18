@@ -180,7 +180,6 @@ If you encounter issues not covered here:
 
 1. Check the [FAQ](docs/FAQ.md) for common problems and solutions
 2. Open an issue on the GitHub repository
-3. Contact the maintainers for support
 
 ## License
 
