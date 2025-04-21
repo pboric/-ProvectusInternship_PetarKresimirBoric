@@ -44,7 +44,7 @@ def main():
     
     args = parser.parse_args()
     
-    # Model URLs (these are examples, you would need to provide actual URLs)
+    # Model URLs
     model_urls = {
         'llama-2-7b-chat.Q4_K_M.gguf': 'https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF/resolve/main/llama-2-7b-chat.Q4_K_M.gguf',
         'llama-2-13b-chat.Q4_K_M.gguf': 'https://huggingface.co/TheBloke/Llama-2-13B-Chat-GGUF/resolve/main/llama-2-13b-chat.Q4_K_M.gguf',
